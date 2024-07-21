@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Parcial2",
+    "slug": "Parcial2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.olvismejia.Parcial2"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fb872b4f-a8a2-4b88-ba75-9b3e7adf1daa"
+      }
+    }
+  }
+}
